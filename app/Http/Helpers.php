@@ -2,7 +2,7 @@
 use App\Customer;
 class Helpers {
 
-  public static function generateRandomString($len,$chars = ) {
+  public static function generateRandomString($len,$chars = 15 ) {
 
     $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789';
     $charsLen = strlen($chars);
