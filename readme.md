@@ -1,2 +1,6 @@
 # Arrowland Mobile Reservation Backend
-    - a laravel application API and Admin Pages
+
+A Laravel Application
+    - API For Mobile Application for Arrowland.
+    - A Admin Page for Arrowland Mobile Reservation.
+    
